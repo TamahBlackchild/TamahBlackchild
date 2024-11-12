@@ -1,16 +1,30 @@
 ## Hi there 👋
+Welcome to my Github Profile
 
-<!--
-**TamahBlackchild/TamahBlackchild** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+I'm a Tech enthusiast, always exploring the latest in software development. Currently, i'm on a journey to master Software development and share what i learn along the way. 
 
-Here are some ideas to get you started:
+## What I'm currently working on
+Enhancing my skills in Sharepoint CMS
+Developing interactive websites
+Creating dynamic web appications using PHP and MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## What i'm learning
+Deep diving into frontend frameworks like react 
+Optimizing queue management systems for better Customer Experience
+Exporing cloud services to deploy scalable applications
+
+## Let's collaborate
+If you have exciting projects around web development, content management systems or database management, i'd love to connect.
+
+## Looking for help with
+Improving my skills in UI/UX designs
+Intergrating APIs efficiently for various platforms
+
+## Fun fact
+
+
+## How to reach me
+
+
 -->
